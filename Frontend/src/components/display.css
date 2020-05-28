@@ -1,0 +1,24 @@
+
+.table {
+    
+    margin:0 auto;
+    border-collapse: collapse;
+    
+
+}
+
+
+
+.table th,td {
+    padding:15px;
+    border:1px solid black;
+}
+
+.table tr:hover td {
+    background-color: rgba(104, 96, 23, 0.438);
+    font-weight:bolder;
+    color:white;
+} 
+input:required {
+    background-color: rgb(245, 245, 236);
+  }
